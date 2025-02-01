@@ -1,4 +1,4 @@
-## How to Edit Each Section
+ ## How to Edit Each Section
 
 ### Sidebar
 
