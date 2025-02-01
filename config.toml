@@ -6,6 +6,6 @@ defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
-    shortbio = "PhD Student in Economics, Sant'Anna School of Advanced Studies, Pisa"
+    shortbio = "PhD Student, Sant'Anna School of Advanced Studies, Pisa"
     logo = "kry_profile.jpg" 
     
