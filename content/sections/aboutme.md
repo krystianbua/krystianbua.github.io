@@ -4,4 +4,4 @@ I work in the fields of: macroeconomics, financialization, financial history, po
 
 I hold my Bachelor of Science in Economics from the [University of Catania](https://www.unict.it/en) and my Master's degree in Economics and Economic Policy from the [University of Bologna](https://www.unibo.it/en/homepage).
 
-__[Curriculum Vitae]("static/pdf/CV022025.pdf")__ (Updated February 2025)
+__[Curriculum Vitae](static/pdf/CV022025.pdf)__ (Updated February 2025)
